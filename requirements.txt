@@ -1,0 +1,4 @@
+numpy>=1.21
+pillow>=9.0
+kagglehub>=0.2
+# PyTorch is installed by install.sh (CPU or CUDA build depending on your GPU)
